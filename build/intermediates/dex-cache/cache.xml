@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\DavidRuiz\.gradle\caches\modules-2\files-2.1\org.osmdroid\osmdroid-android\4.3\2fcf7bc3cb27daa6e67c8990ea418d19f6b5b296\osmdroid-android-4.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2fcf7bc3cb27daa6e67c8990ea418d19f6b5b296">
+        <dex dex="C:\Users\DavidRuiz\AndroidstudioProjects\geoPhotoLoc\app\build\intermediates\pre-dexed\debug\osmdroid-android-4.3-38e3744d271b861198b9c57d41c91009c294dff7.jar" />
+    </item>
+    <item
+        jar="C:\Users\DavidRuiz\AndroidstudioProjects\geoPhotoLoc\app\libs\osmbonuspack_v5.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6056a0c43cd37168d2bbcc0bdac23b9b8c5452f2">
+        <dex dex="C:\Users\DavidRuiz\AndroidstudioProjects\geoPhotoLoc\app\build\intermediates\pre-dexed\debug\osmbonuspack_v5.1-ba96a45f3ead55644b2138b9cdd2a42fd9ea6799.jar" />
+    </item>
+    <item
+        jar="C:\Users\DavidRuiz\AndroidstudioProjects\geoPhotoLoc\app\build\intermediates\exploded-aar\com.github.chrisbanes.photoview\library\1.2.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81aa0e8e77d948204aa6754019c6f3c04dd922e3">
+        <dex dex="C:\Users\DavidRuiz\AndroidstudioProjects\geoPhotoLoc\app\build\intermediates\pre-dexed\debug\classes-5e02af75058baa3425f0d4136ef47a73a3e4fd02.jar" />
+    </item>
+    <item
+        jar="C:\Users\DavidRuiz\AndroidstudioProjects\geoPhotoLoc\app\libs\slf4j-android-1.5.8.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="404eece4bb07ea211f5a879c22458775c612f0df">
+        <dex dex="C:\Users\DavidRuiz\AndroidstudioProjects\geoPhotoLoc\app\build\intermediates\pre-dexed\debug\slf4j-android-1.5.8-5066fe49331b4bc23f24e9dfc3b0dd4bedfb71b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\DavidRuiz\AndroidstudioProjects\geoPhotoLoc\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\DavidRuiz\AndroidstudioProjects\geoPhotoLoc\app\build\intermediates\pre-dexed\debug\classes-00deef3270b8bb28fbb0a4e3086f587d1d335db3.jar" />
+    </item>
+    <item
+        jar="C:\Users\DavidRuiz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\DavidRuiz\AndroidstudioProjects\geoPhotoLoc\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-ff47a2774dbc368d92859ff97ee539931997bc19.jar" />
+    </item>
+    <item
+        jar="C:\Users\DavidRuiz\AndroidstudioProjects\geoPhotoLoc\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\DavidRuiz\AndroidstudioProjects\geoPhotoLoc\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-8a8321f6d139033479324b639980c7030780531a.jar" />
+    </item>
+    <item
+        jar="C:\Users\DavidRuiz\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="C:\Users\DavidRuiz\AndroidstudioProjects\geoPhotoLoc\app\build\intermediates\pre-dexed\debug\picasso-2.5.0-7fed73f6eaf2ca6871ed6fd4326f04d2a2237e0a.jar" />
+    </item>
+    <item
+        jar="C:\Users\DavidRuiz\AndroidstudioProjects\geoPhotoLoc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\DavidRuiz\AndroidstudioProjects\geoPhotoLoc\app\build\intermediates\pre-dexed\debug\classes-0956da092d4294e90090929db917aa47e249aad1.jar" />
+    </item>
+    <item
+        jar="C:\Users\DavidRuiz\AndroidstudioProjects\geoPhotoLoc\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\DavidRuiz\AndroidstudioProjects\geoPhotoLoc\app\build\intermediates\pre-dexed\debug\classes-dab89de3fb6334049ab34857c60c30a4955d69e9.jar" />
+    </item>
+
+</items>
